@@ -3,9 +3,6 @@
 # include themes/catppuccin-frappe
 # include themes/catppuccin-latte
 
-include themes/base16-grayscale-dark
-# include themes/base16-grayscale-light
-
 # set window-title-basename true
 set selection-clipboard "clipboard"
 
